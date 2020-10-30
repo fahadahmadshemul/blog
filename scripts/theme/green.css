@@ -1,0 +1,38 @@
+     /*-----pagination-----*/
+     span.pagination{display:block;font-size:18px;margin-top:10px;padding:10px;text-align:center;}
+     span.pagination a{background:#49f749;border:1px solid #0aad0a;border-radius:3px;color:#333;margin-left:2px;padding:2px 10px;text-decoration:none;}
+     span.pagination a:hover {background: #33b133;border: 1px solid #089808;}
+     span.pagination a:hover{background:#33b133;color:#fff;}
+     .samesidebar h2 {background: #e6af4b none repeat scroll 0 0;border-bottom: 2px solid #b7801c;}
+     .samesidebar ul li a {color: #814a00;}
+     .samesidebar ul li a:hover {color: #DF5C25;}
+     .samesidebar ul li{border-bottom: 0px dashed #e9c05c;}
+     .popular img {border: 1px solid #f6bf5b;}
+         /*-----pagination-----*/
+  /* green theam css*/
+  .headersection {background: #028002 none repeat scroll 0 0;}
+  .icon a {background: #08a508 !important}
+  .searchbtn input[type="text"] {border: 1px solid #025d02;background: #2dd62d;}
+  .searchbtn input[type="submit"] {border: 1px solid #026102;}
+  input[type="submit"] {background: #027b02 none repeat scroll 0 0;}
+  input[type="submit"]:hover {background: #06b906 !important;border: 1px solid #026102 !important;}
+  .navsection {background: none repeat scroll 0 0 #06a506;}
+  .navsection ul li {border-left: 1px solid #028002;border-right: 1px solid #028002;}
+  .samepost h2 a {color: #028002;}
+  .maincontent {background: #b2fdb2 none repeat scroll 0 0;border: 1px solid #b1d8b1;}
+  .contentsection {border: 1px solid #b2fdb2;}
+  .samepost h2, .about h2 {border-bottom: 2px solid #add4ad;}
+  .samepost img {border: 1px solid #028002;}
+  .readmore a {border: 1px solid #028002;color:#02bf02}
+  .readmore a:hover{color:#028002;}
+  .sidebar {background: #cdf3cd none repeat scroll 0 0;border: 1px solid #a8c5a8;}
+  .samesidebar h2 {background: #44ea44 none repeat scroll 0 0;border-bottom: 2px solid #1cbb1c;}
+  .samesidebar ul li a {color: #038603;}
+  .samesidebar ul li a:hover{color:#12e812;}
+  .samesidebar ul li{border-bottom: 1px dashed #59f159;}
+  .popular h3 {border-bottom: 1px dashed #21c321;}
+  .popular img {border: 1px solid #5cea5c;}
+  .footersection {background: #20b920;}
+  .footermenu ul li a {color: #4cf74c;}
+  .about h2{color:#20b920;}
+  .navsection ul li a:hover, #active {background:#d5f5d5;}
